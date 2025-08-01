@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/davidalejandrochentes">
-    <img src="https://raw.githubusercontent.com/davidalejandrochentes/davidalejandrochentes.github.io/main/assets/img/mi_imagen.webp" alt="David A. Chentes" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #38bdf8;">
-  </a>
 
   <h1 style="border-bottom: none;">
     <b>¡Hola! Soy David A. Chentes</b>
@@ -32,13 +29,9 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un **Ingeniero de Software** apasionado por el desarrollo de soluciones a medida, con un fuerte enfoque en la **funcionalidad y la experiencia del usuario**. Mi trayectoria abarca desde la gestión remota de sistemas de adquisición de datos hasta la creación de ecosistemas de software para logística y mantenimiento.
+Como Ingeniero de Software, me especializo en el desarrollo de soluciones a medida, con un fuerte enfoque en la funcionalidad y la experiencia del usuario. Mi experiencia abarca desde la gestión remota de sistemas de adquisición de datos hasta la creación de ecosistemas de software para logística y mantenimiento. 
 
-- 🔭 Actualmente estoy trabajando en proyectos freelance, aplicando mi experiencia en desarrollo backend.
-- 🌱 Estoy aprendiendo y profundizando constantemente en **Rust y Go** para desarrollo de alto rendimiento.
-- 💬 Pregúntame sobre **Python, Django, FastAPI** y arquitecturas de software.
-- 📫 Cómo contactarme: **davidalejandrochentes@gmail.com**
-- ⚡ Dato curioso: Soy miembro oficial de **Ubuntu** en Latinoamérica y un entusiasta contribuidor del software libre.
+He tenido el honor de ser ponente en convenciones científicas y publicar artículos, lo que refleja mi compromiso con la innovación. Como miembro oficial de Ubuntu en Latinoamérica, contribuyo activamente a la comunidad de software libre, una pasión que complementa mi trabajo profesional. 
 
 ---
 
