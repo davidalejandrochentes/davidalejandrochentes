@@ -50,10 +50,10 @@ He tenido el honor de ser ponente en convenciones científicas y publicar artíc
   <p>
     <img src="svg/django-plain.svg" alt="Django" width="40" height="40"/>
     <img src="svg/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-    <img src="svg/gin.png" alt="Gin" width="40" height="40"/>
-    <img src="svg/actix.png" alt="Actix" width="40" height="40"/>
     <img src="svg/reflex.png" alt="Reflex" width="40" height="40"/>
     <img src="svg/streamlit-plain.svg" alt="Streamlit" width="40" height="40"/>
+    <img src="svg/gin.png" alt="Gin" width="40" height="40"/>
+    <img src="svg/actix.png" alt="Actix" width="40" height="40"/>
     <img src="svg/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
     <img src="svg/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </p>
