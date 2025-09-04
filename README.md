@@ -55,7 +55,6 @@ He tenido el honor de ser ponente en convenciones científicas y publicar artíc
     <img src="svg/gin.png" alt="Gin" width="40" height="40"/>
     <img src="svg/actix.png" alt="Actix" width="40" height="40"/>
     <img src="svg/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="svg/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </p>
   <h4><b>Bases de Datos y Datos</b></h4>
   <p>
