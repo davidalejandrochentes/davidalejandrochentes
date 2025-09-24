@@ -40,9 +40,9 @@
 
 ### 👨‍💻 Sobre Mí
 
-Como Ingeniero de Software y Desarrollador Back-End, me especializo en la arquitectura y construcción de la lógica del lado del servidor que impulsa aplicaciones robustas y escalables. Mi experiencia abarca desde la gestión remota de sistemas de adquisición de datos, desarrollo de la lógica de negocio para casinos y redes sociales, hasta la creación de ecosistemas de software para CRM. 
+Como Ingeniero de Software, me especializo en el desarrollo de soluciones a medida, con un fuerte enfoque en la funcionalidad y la experiencia del usuario. Mi experiencia abarca desde la gestión remota de sistemas de adquisición de datos, el desarollo backend de casinos, redes sociales, hasta la creación de ecosistemas de software para logística, mantenimiento y ventas.
 
-He tenido el honor de ser ponente en convenciones científicas y publicar artículos, lo que refleja mi compromiso con la innovación. Como miembro oficial de Ubuntu en Latinoamérica, contribuyo activamente a la comunidad de software libre, una pasión que complementa mi trabajo profesional. 
+He tenido el honor de ser ponente en convenciones científicas y publicar artículos, lo que refleja mi compromiso con la innovación. Como miembro oficial de Ubuntu y Python, contribuyo activamente a la comunidad de software libre, una pasión que complementa mi trabajo profesional.
 
 ---
 
