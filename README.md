@@ -29,11 +29,11 @@
 
 ### 🪪​ Membresias
 
-<a href="http://linkedin.com/in/david-alejandro-chentes-ramos" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://launchpad.net/~davidchentes" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Ubuntu-e75420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </a>
-<a href="httpswa.me/5354214040" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+<a href="https://www.python.org/users/davidchentes/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Python-244e71?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
 
 ---
