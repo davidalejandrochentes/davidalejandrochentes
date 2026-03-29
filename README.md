@@ -54,7 +54,6 @@ He tenido el honor de ser ponente en convenciones científicas y publicar <a hre
     <img src="svg/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="svg/Go.svg" alt="Go" width="40" height="40"/>
     <img src="svg/rust-original.svg" alt="Rust" width="40" height="40"/>
-    <img src="svg/Solidity.svg" alt="Go" width="40" height="40"/>
     <img src="svg/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="svg/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </p>
