@@ -38,6 +38,30 @@
 
 ---
 
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://adachecker.net" target="_blank">ADAchecker</a></h4>
+      <p>
+        SaaS que escanea sitios web en busca de problemas de accesibilidad (ADA/WCAG), pensado para e-commerce, agencias y pequeños negocios. Diseñado para que cualquier equipo, sin conocimientos técnicos de accesibilidad, pueda detectar y priorizar qué corregir antes de que se convierta en un riesgo legal o de reputación.
+      </p>
+      <a href="https://adachecker.net" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Visitar-ADAchecker-2ea44f?style=for-the-badge" alt="ADAchecker">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 Kruvx</h4>
+      <p>
+        Plataforma de referral marketing que convierte a los clientes existentes de un negocio en referidores activos. Nace como alternativa al marketing de influencers, apostando por la confianza de una recomendación real por encima del alcance pagado, con beneficios para las tres partes: quien refiere, quien es referido y el negocio.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 👨‍💻 Sobre Mí
 
 Como Ingeniero de Software, me especializo en el desarrollo de soluciones a medida, con un fuerte enfoque en la funcionalidad y la experiencia del usuario. Mi experiencia abarca desde la gestión remota de sistemas de adquisición de datos, el desarollo backend de casinos, redes sociales, hasta la creación de ecosistemas de software para logística, mantenimiento y ventas.
