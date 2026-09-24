@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Como Fundador
 
 <table>
   <tr>
@@ -52,10 +52,13 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>🤝 Kruvx</h4>
+      <h4>🤝 <a href="https://kruvx.cloud" target="_blank">Kruvx</a></h4>
       <p>
         Plataforma de referral marketing que convierte a los clientes existentes de un negocio en referidores activos. Nace como alternativa al marketing de influencers, apostando por la confianza de una recomendación real por encima del alcance pagado, con beneficios para las tres partes: quien refiere, quien es referido y el negocio.
       </p>
+      <a href="https://kruvx.cloud" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Visitar-Kruvx-2ea44f?style=for-the-badge" alt="Kruvx">
+      </a>
     </td>
   </tr>
 </table>
